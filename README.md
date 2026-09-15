@@ -6,7 +6,7 @@
 
 <img src="assets/teaser.png" alt="KaiNinja paper teaser" width="92%">
 
-<a href="https://alaya-lab.github.io/KaiNinja/"><img src="assets/project-page.webp" alt="KaiNinja project page" width="92%"></a>
+<a href="https://alaya-lab.github.io/KaiNinja/"><img src="assets/kaininja-page-hero.webp" alt="KaiNinja project page" width="92%"></a>
 
 </div>
 
