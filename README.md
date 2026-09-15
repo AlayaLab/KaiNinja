@@ -4,7 +4,9 @@
 
 [**Project Page**](https://alaya-lab.github.io/KaiNinja/) | [**Paper**](https://alaya-lab.github.io/KaiNinja/assets/paper/kaininja.pdf)
 
-<img src="assets/teaser.webp" alt="KaiNinja teaser" width="85%">
+<img src="assets/teaser.png" alt="KaiNinja paper teaser" width="92%">
+
+<a href="https://alaya-lab.github.io/KaiNinja/"><img src="assets/project-page.webp" alt="KaiNinja project page" width="85%"></a>
 
 </div>
 
