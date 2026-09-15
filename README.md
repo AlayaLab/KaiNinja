@@ -1,16 +1,31 @@
-<div align="center">
+<h1 align="center">KaiNinja: Extending Native 3D Generators to the Part Level</h1>
 
-# KaiNinja: Extending Native 3D Generators to the Part Level
+<p align="center"><a href="https://alayalab.ai/"><b>Alaya Lab</b></a></p>
 
-[**Project Page**](https://alaya-lab.github.io/KaiNinja/) | [**Paper**](https://arxiv.org/abs/2609.15659)
+<p align="center">
+  <a href="https://alaya-lab.github.io/KaiNinja/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
+  <a href="https://arxiv.org/abs/2609.15659"><img src="https://img.shields.io/badge/arXiv-2609.15659-b31b1b"></a>
+</p>
 
-<img src="assets/teaser.png" alt="KaiNinja paper teaser" width="92%">
+<p align="center">
+  <img src="assets/teaser.png" width="100%" alt="KaiNinja teaser">
+</p>
 
-<a href="https://alaya-lab.github.io/KaiNinja/"><img src="assets/kaininja-page-hero.webp" alt="KaiNinja project page" width="92%"></a>
+<p align="center">
+  <a href="https://alaya-lab.github.io/KaiNinja/"><img src="assets/kaininja-page-hero.webp" width="100%" alt="KaiNinja project page"></a>
+</p>
 
-</div>
+## 📰 News
 
-Code and pretrained models are being prepared for release.
+- **[2026-09-15]** Paper released on [arXiv](https://arxiv.org/abs/2609.15659).
+- **[2026-09-15]** [Project page](https://alaya-lab.github.io/KaiNinja/) released.
+
+## 🚀 Release Roadmap
+
+- [x] Project page
+- [x] Technical report — [arXiv](https://arxiv.org/abs/2609.15659)
+- [ ] Inference code
+- [ ] Pretrained weights
 
 ## BibTeX
 
