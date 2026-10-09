@@ -2,10 +2,10 @@
 
 <p align="center"><a href="https://alayalab.ai/"><b>Alaya Lab</b></a></p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://alaya-lab.github.io/KaiNinja/"><img src="https://img.shields.io/badge/Project-Page-blue"></a>
   <a href="https://arxiv.org/abs/2609.15659"><img src="https://img.shields.io/badge/arXiv-2609.15659-b31b1b"></a>
-</p>
+</p> -->
 
 <p align="center">
   <img src="assets/teaser.png" width="100%" alt="KaiNinja teaser">
